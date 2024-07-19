@@ -31,6 +31,9 @@ Experienced Web Developer with a strong background in front-end technologies suc
 ### Bachelor of Computer Applications
 **ARC Visvanathan College, Mayiladuthurai** (2016 - 2019)
 
+### High School
+**Government Higher Secondary school, Thamarankottai, Tanjore** (2014 - 2016)
+
 ## 🛠️ Skills
 - **Programming Languages:** C, C++, Java, Dart
 - **Front-end Technologies:** Angular, React, Litelement
