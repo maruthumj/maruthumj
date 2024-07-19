@@ -41,9 +41,12 @@ Experienced Web Developer with a strong background in front-end technologies suc
 
 ## 🌟 Open Source Contributions
 - **PrimeNG:** Contributed to a popular open-source UI component library for Angular
-  - [PrimeNG GitHub Repository](https://github.com/primefaces/primeng)
+  - [PrimeNG GitHub Repository](https://github.com/primefaces/primeng/pulls/maruthumj) 
+- **Angular Material:** Contributed to google's UI component library for Angular
+  - [Material GitHub Repository](https://github.com/angular/components/pulls/maruthumj)
 - **Angular Templates:** Created an open-source repository for various application templates in Angular
   - [Angular Templates GitHub Repository](https://github.com/maruthumj/angular-templates)
+  - [Angular Templates Website](https://www.angular-templates.in)
 
 ## 🌍 Languages
 - **Tamil:** Native
