@@ -16,7 +16,7 @@
 Experienced Web Developer with a strong background in front-end technologies such as Angular, React, and Lit. Proven track record in developing reusable component libraries and contributing to open-source projects. Adept at creating and maintaining scalable and efficient web applications. Fluent in English and Tamil.
 
 ## 💼 Professional Experience
-### Associate Software Engineer at Caterpillar Inc
+### Associate Software Engineer at Randstad India PVT Limited
 **August 2021 - Present**
 - Developed a reusable component library using Angular.
 - Key contributor to the creation of a 40+ component Angular library with various variants.
@@ -35,7 +35,7 @@ Experienced Web Developer with a strong background in front-end technologies suc
 **Government Higher Secondary school, Thamarankottai, Tanjore** (2014 - 2016)
 
 ## 🛠️ Skills
-- **Programming Languages:** C, C++, Java, Dart
+- **Programming Languages:** C, C++, Java
 - **Front-end Technologies:** Angular, React, Litelement
 - **Web Technologies:** HTML, CSS, SCSS, TypeScript, JavaScript
 
